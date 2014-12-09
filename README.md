@@ -1,4 +1,0 @@
-fantasmin
-=========
-
-fantasmin adventures
